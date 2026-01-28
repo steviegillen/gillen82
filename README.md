@@ -4,7 +4,7 @@
   
   <p>I'm Stevie, a learner from Ireland 🍀</p>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,java)](https://skillicons.dev)
   
   
   🌍 : Currently exploring the world of programming </br>
