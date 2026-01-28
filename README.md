@@ -9,7 +9,7 @@
   
   🌍 : Currently exploring the world of programming </br>
   🐞 : Creating bugs to feed the birds </br>
-  📚 : Currently working on 100 Days of Python (Angela Yu - Udemy) </br>
+  📚 : Currently working on Java Bootcamp (Rayan - Udemy) </br>
   🤞🏻 : Would love to learn nore about AI/ML (baby steps first 👶🏻) </br>
   
   
